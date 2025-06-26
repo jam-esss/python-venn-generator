@@ -1,5 +1,8 @@
 # 📦 Python Venn Diagram Generator
-IMG
+Non-Compute
+
+![image](https://github.com/user-attachments/assets/bfa22c54-472f-4478-a6c4-78136c29b4b3)
+
 
 
 ## ℹ️ Overview
@@ -24,6 +27,10 @@ python -m tkinter
 and
 ```
 pip install matplotlib
+```
+and
+```
+pip install matplotlib_venn
 ```
 https://docs.python.org/3/library/tkinter.html
 
