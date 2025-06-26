@@ -1,4 +1,5 @@
 # 📦 Python Venn Diagram Generator
+IMG
 
 
 ## ℹ️ Overview
@@ -31,3 +32,7 @@ https://matplotlib.org/
 ## ✍️ Authors
 
 https://github.com/jam-esss
+
+## ✅ License
+
+Copyright © 2025 James Pink-Gyett. All rights reserved.
